@@ -1,0 +1,2 @@
+22:6:1 => [info]service_name: FriendServiceRpc
+22:6:1 => [info]method_name: GetFriendsList
